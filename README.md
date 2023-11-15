@@ -15,7 +15,7 @@
 
 <p>
   Ноутбук с проектом доступен по ссылке:
-  <a href="[https://github.com/antskos/project3/blob/master/project3_for_github/project3.ipynb](https://github.com/antskos/ds_diplom/blob/main/Diplom_DS.ipynb)https://github.com/antskos/ds_diplom/blob/main/Diplom_DS.ipynb">Дипломный проект</a>
+  <a href="https://github.com/antskos/ds_diplom/blob/main/Diplom_DS.ipynb">Дипломный проект</a>
 </p>
 
 _Примечание: работа не являетя окончательным вариантом. На данном этапе, это скорее проба пера, показавшая ошибки и пути дальнейшего улучшения проекта._
